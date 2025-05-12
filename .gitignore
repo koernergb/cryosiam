@@ -55,3 +55,5 @@ experiments/*
 
 cryosiam_beta/
 env/
+input_tomograms/
+output_tomograms/
