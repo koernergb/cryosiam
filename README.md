@@ -14,7 +14,11 @@ Other downstream tasks (semantic and instance segmentation) will come very soon!
 
 1. Clone this repository.
 2. Clone the CryoSiam-beta dependency into the project root:
+    ```
    git clone https://github.com/frosinastojanovska/cryosiam_beta.git
+   ```
 3. Install requirements:
+   ```
    pip install -r requirements.txt
+   ```
 4. Run the script as described...
